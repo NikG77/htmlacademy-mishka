@@ -1,4 +1,4 @@
-# Личный проект «Мишка» [![Build status][travis-image]][travis-url]
+# Личный проект «Мишка»
 
 * Студент: [Georg Nikitin](https://up.htmlacademy.ru/htmlcss/26/user/1118677)
 * Наставник: [Вадим Новаш](https://up.htmlacademy.ru/adaptive/18/user/8589)
